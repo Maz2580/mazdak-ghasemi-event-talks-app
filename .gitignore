@@ -131,3 +131,7 @@ venv.bak/
 # Local/temporary news files
 news.txt
 summary.txt
+
+# Custom skills folder (ignored to keep separate)
+skills/
+
